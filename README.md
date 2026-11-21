@@ -1,4 +1,4 @@
-# Hi, I'm Mohaimin Hossain (Arnob) 👋
+# Hi, I'm Mohaimin Hossain 👋
 
 **CSE graduate from United International University (CGPA 3.72)** · Backend developer · Machine learning researcher · Competitive programmer
 
